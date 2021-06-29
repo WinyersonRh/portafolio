@@ -4,4 +4,4 @@ Portafolio CV Profesional
 
 ## Proyectos
 
-- [Landing Page de tipo Portafolio-CV](https://WinyersonRh.github.io/portfolio/)
+- [Landing Page de tipo Portafolio-CV](https://WinyersonRh.github.io/winyersonrh-portafolio-cv/portfolio/)
