@@ -1,6 +1,6 @@
 # Portafolio CV - WinyersonRh
 
-Primer Portafolio CV Profesional Rgesponsive.
+Primer Portafolio CV Profesional Responsive.
 
 ## Enlace
 
