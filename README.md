@@ -1,8 +1,8 @@
 # Portafolio CV - WinyersonRh
 
-Portafolio CV - Winyerson Rivera
+Primer Portafolio CV Profesional responsive.
 
-## Proyectos
+## Enlace
 
 - [Landing Page de tipo Portafolio-CV](https://WinyersonRh.github.io/portafolio/portafolio/)
 
